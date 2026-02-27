@@ -1,0 +1,7 @@
+Book_ID,Title,Author,Pages,Price,Rating,Year
+1,Python Basics,John,250,350,4.5,2020
+2,ML Guide,Smith,400,550,4.8,2021
+3,Data Science,Alex,320,450,4.3,2019
+4,Neural Network,Smith,415,460,4.5,2020
+5,Deep Learning,Marsland,350,390,4.6,2022
+6,NLP,Michele,255,480,3.9,2023
