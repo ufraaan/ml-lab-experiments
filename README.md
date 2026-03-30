@@ -29,6 +29,9 @@ A summary of completed and available experiments along with their associated not
 | 05 | [exp-05.ipynb](experiment-05/exp-05.ipynb) | [weather_data.csv](experiment-05/data/weather_data.csv) |
 | 06 | [exp-06.ipynb](experiment-06/exp-06.ipynb) | [user_data.csv](experiment-06/data/user_data.csv) |
 | 07 | [exp-07.ipynb](experiment-07/exp-07.ipynb) | [play_tennis.csv](experiment-07/data/play_tennis.csv) |
+| 08 | [exp-08.ipynb](experiment-08/exp-08.ipynb) | - |
+| 09 | -                                          | - |
+| 10 | [exp-10.ipynb](experiment-10/exp-10.ipynb) | [mobile_data.csv](experiment-10/data/mobile_data.csv)
 
 ## Repository Structure
 ```
