@@ -31,7 +31,7 @@ A summary of completed and available experiments along with their associated not
 | 07 | [exp-07.ipynb](experiment-07/exp-07.ipynb) | [play_tennis.csv](experiment-07/data/play_tennis.csv) |
 | 08 | [exp-08.ipynb](experiment-08/exp-08.ipynb) | - |
 | 09 | [exp-09.ipynb](experiment-09/exp-09.ipynb) | [diabetes.csv](experiment-09/data/diabetes.csv) |
-| 10 | [exp-10.ipynb](experiment-10/exp-10.ipynb) | [mobile_data.csv](experiment-10/data/mobile_data.csv)
+| 10 | [exp-10.ipynb](experiment-10/exp-10.ipynb) | [mobile-info.xlsx](experiment-10/data/mobile-info.xlsx) |
 
 ## Repository Structure
 ```
