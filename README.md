@@ -15,6 +15,16 @@ cd ml-lab-experiments
 jupyter notebook
 ```
 
+## PDF Exports
+
+PDF versions of all experiment notebooks can be found in:
+- `exports/pdfs/`
+
+To regenerate them, run:
+```bash
+./scripts/export_notebooks_to_pdf.sh ./exports/pdfs --install-deps
+```
+
 
 ## Experiments
 
@@ -67,5 +77,9 @@ ml-lab-experiments/
 ├── experiment-11/
 │   ├── exp-11.ipynb
 │   └── data/mobile-info.xlsx
+├── scripts/
+│   └── export_notebooks_to_pdf.sh
+└── exports/
+	└── pdfs/
 
 ```
