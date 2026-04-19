@@ -32,6 +32,7 @@ A summary of completed and available experiments along with their associated not
 | 08 | [exp-08.ipynb](experiment-08/exp-08.ipynb) | - |
 | 09 | [exp-09.ipynb](experiment-09/exp-09.ipynb) | [diabetes.csv](experiment-09/data/diabetes.csv) |
 | 10 | [exp-10.ipynb](experiment-10/exp-10.ipynb) | [mobile-info.xlsx](experiment-10/data/mobile-info.xlsx) |
+| 11 | [exp-11.ipynb](experiment-11/exp-11.ipynb) | [mobile-info.xlsx](experiment-11/data/mobile-info.xlsx) |
 
 ## Repository Structure
 ```
@@ -62,6 +63,9 @@ ml-lab-experiments/
 │   └── data/diabetes.csv
 ├── experiment-10/
 │   ├── exp-10.ipynb
-│   └── data/mobile-data.csv
+│   └── data/mobile-info.xlsx
+├── experiment-11/
+│   ├── exp-11.ipynb
+│   └── data/mobile-info.xlsx
 
 ```
